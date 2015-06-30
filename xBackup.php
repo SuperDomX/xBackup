@@ -2,12 +2,12 @@
 /**
  *
  * @author XtIV
- * @name Database
+ * @name Backup
  * @desc Easily Backup, Download & Restore the Database!
  * @version v1.11.07.25.05.120
  * @icon database4.png
  * @mini database
- * @see content
+ * @see construct
  * @link backup
  * @todo
  */
