@@ -9,6 +9,8 @@
  * @mini database
  * @see content 
  * @link backup
+ * @alpha true
+ * @release alpha
  * @todo
  */
 	class xBackup extends Xengine {
