@@ -1,10 +1,9 @@
 <?php
 /**
- *
- * @author XtIV
  * @name Backup
  * @desc Easily Backup, Download & Restore the Database!
- * @version v1.11.07.25.05.120
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon database4.png
  * @mini database
  * @see content 
